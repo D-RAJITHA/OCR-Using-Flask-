@@ -1,0 +1,14 @@
+jsonpickle
+requests
+pytesseract
+datetime
+flask
+flask_cors
+imutils==0.5.1
+numpy>=1.15
+scipy
+opencv-python
+dlib
+Pillow==7.2.0
+scikit-image==0.14.1
+Werkzeug>=0.15
